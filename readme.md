@@ -9,6 +9,7 @@ The project setup is based on Spring Boot micro services. There will be a relati
 ![inital version image](https://github.com/satellytes/satellytes.com-backend/blob/master/initial_version.PNG)
 
 ## Future versions:
+- Reactive version of REST calls
 - Using DynamoDB instead of AWS RDS
 - Use Kinesis as event streaming
 - Use Eventsourcing and Streaming with Kinesis and DynamoDB
@@ -19,4 +20,5 @@ The project setup is based on Spring Boot micro services. There will be a relati
 - Use Micronaut instead of Spring Boot
 - Kubernetes version
 - Deployment Pipeline with Spinnaker
+- Testing with Arquillian
 - ...
